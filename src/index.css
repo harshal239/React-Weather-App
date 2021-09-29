@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-  font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
   background: rgb(252,255,210);
   background: linear-gradient(45deg, rgba(252,255,210,1) 0%, rgba(249,240,233,1) 100%);
   -webkit-font-smoothing: antialiased;
